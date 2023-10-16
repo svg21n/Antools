@@ -9,7 +9,9 @@
 height: 700px;
 flex-shrink: 0;
 }
-
+.header-main{
+background-image: url(src\Images\invision.webp);
+}
 .searchbar{
   
   border-radius: 15px;
@@ -97,7 +99,8 @@ margin-top: 1px;
  }
  .tools1{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 10px;
  }
  .tool-card1{
   margin-top: 110px;
