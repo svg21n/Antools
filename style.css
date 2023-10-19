@@ -9,9 +9,7 @@
 height: 700px;
 flex-shrink: 0;
 }
-.header-main{
-background-image: url(src\Images\illustration.webp);
-}
+
 .searchbar{
   
   border-radius: 15px;
@@ -62,9 +60,10 @@ flex-shrink: 0;
 margin-left: 111px;
  }
  .background {
-  position:sticky;
-  margin-left: 1164px;
-margin-top: 1px;
+ position: absolute;
+ top:430px;
+
+right: 589px;
 }
 
 .background img {
@@ -86,13 +85,17 @@ margin-top: 1px;
   margin-top: 122px;
  }
  
- .container {
+ .container  {
  margin: auto;
- width: 1224px;
+ width: 80%;
  height: 1109px;
  flex-shrink: 0;
   border:5px solid blue;
+  text-decoration: none;
  }
+.link{
+  text-decoration: none;
+}
  .header-group{
   margin: auto;
   text-align: center;
@@ -100,7 +103,7 @@ margin-top: 1px;
  .tools1{
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 90px;
  }
  .tool-card1{
   margin-top: 110px;
@@ -131,28 +134,114 @@ flex-shrink: 0;
  }
  .tools2{
   display: flex;
-  
+  justify-content: center;
+  gap: 90px;
+ }
+ .tool-card4 {
+  margin-top: 100px;
+  width: 392px;
+  height: 294px;
+  flex-shrink: 0;
+  border-radius: 15px;
+background: #1E252B;
+border:5px solid blue;
+ }
+ .tool-card5{
+  margin-top: 100px;
+  width: 392px;
+height: 294px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #1E252B;
+border:5px solid blue;
+ }
+ .tool-card6{
+  margin-top: 100px;
+  width: 392px;
+height: 294px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #1E252B;
+border:5px solid blue;
  }
  .brand{
-  width: 1224px;
+ margin-top: 217px;
+  width: 75%;
   height: 253px;
   flex-shrink: 0;
 border:5px solid blue;
 margin: auto;
-
+margin-bottom: 200px;
  }
  
  .brand-tools{
+  
 margin-top: 55px;
 display: flex;
 justify-content: space-around;
+
+
  }
 
  .new-tools{
-  width: 1224px;
-  height: 638px;
+  width: 78%;
+  height: 658px;
   border:5px solid blue;
   margin: auto;
+ }
+ .newcomer{
+  width: 427px;
+height: 300px;
+flex-shrink: 0;
+position: absolute;
+
+ }
+ .cards1{
+  display: flex;
+ }
+ .new-card1{
+  width: 288px;
+  height: 284px;
+  flex-shrink: 0;
+  border-radius: 15px;
+background: #1E252B;
+margin-left: 850px;
+margin-top: 30px;
+
+border:5px solid blue;
+ }
+ .new-card2{
+  width: 288px;
+  height: 284px;
+  flex-shrink: 0;
+  border-radius: 15px;
+border: 2px solid rgba(40, 48, 54, 0.60);
+margin-top: 15px;
+margin-left: 24px;
+border:5px solid blue;
+ }
+ .cards2{
+display: flex;
+margin-left: 850px  ;
+ }
+ .new-card3{
+  width: 288px;
+  height: 284px;
+  flex-shrink: 0;
+  border-radius: 15px;
+background: #1E252B;
+border:5px solid blue;
+margin-top: 50px;
+ }
+ .new-card4{
+  width: 288px;
+  height: 284px;
+  flex-shrink: 0;
+  border-radius: 15px;
+background: #1E252B;
+border:5px solid blue;
+margin-left: 24px;
+margin-top: 50px;
  }
 .plate{
   width: 265px;
@@ -240,10 +329,12 @@ background: #283036;
   width: 70px;
 }
 .david{
-  width: 1224px;
+  margin: auto;
+  width: 78%;
 height: 600px;
 flex-shrink: 0;
-border: 1.5px solid rgba(255, 255, 255, 0.10);
+border: 1.5px solid rgba(0,0,0,0.0);
+margin-top: 300px;
 }
 
 footer{
@@ -274,6 +365,7 @@ margin-left: 200px;
 margin-bottom: 173px;
 }
 .card4{
+  
   width: 149px;
 height: 142px;
 flex-shrink: 0;
@@ -281,4 +373,8 @@ margin-top: 70px;
 margin-left: 115px;
 margin-bottom: 139px;
  
+}
+footer a{
+  text-decoration: none;
+
 }
