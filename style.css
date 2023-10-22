@@ -114,15 +114,37 @@ right: 589px;
   border-radius: 15px;
 background: #1E252B;
  }
+ .tool-card1:hover{
+  margin-top: 80px;
+  transition: 1s;
+   }
  .tool-card2{
-  margin-top: 90px;
+  margin-top: 110px;
   width: 392px;
 height: 294px;
 flex-shrink: 0;
 border-radius: 15px;
 border: 2px solid rgba(255, 255, 255, 0.80);
-
  }
+ .tool-card2:hover{
+margin-top: 80px;
+transition: 1s;
+ }
+
+
+a.img{
+  background: url(src/Images/heart-grey.webp); 
+  display: block;
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  
+ }
+ a.img:hover {
+  background: url(src/Images/heart-red.webp);
+
+}
+  
  .tool-card3{
   margin-top: 110px;
   width: 392px;
@@ -132,6 +154,10 @@ flex-shrink: 0;
   border-radius: 15px;
   background: #1E252B;
  }
+ .tool-card3:hover{
+  margin-top: 80px;
+  transition: 1s;
+   }
  .tools2{
   display: flex;
   justify-content: center;
@@ -146,6 +172,10 @@ flex-shrink: 0;
 background: #1E252B;
 border:5px solid blue;
  }
+ .tool-card4:hover{
+  margin-top: 80px;
+  transition: 1s;
+   }
  .tool-card5{
   margin-top: 100px;
   width: 392px;
@@ -155,6 +185,10 @@ border-radius: 15px;
 background: #1E252B;
 border:5px solid blue;
  }
+ .tool-card5:hover{
+  margin-top: 80px;
+  transition: 1s;
+   }
  .tool-card6{
   margin-top: 100px;
   width: 392px;
@@ -164,6 +198,10 @@ border-radius: 15px;
 background: #1E252B;
 border:5px solid blue;
  }
+ .tool-card6:hover{
+  margin-top: 80px;
+  transition: 1s;
+   }
  .brand{
  margin-top: 217px;
   width: 75%;
@@ -207,19 +245,26 @@ position: absolute;
 background: #1E252B;
 margin-left: 850px;
 margin-top: 30px;
-
 border:5px solid blue;
  }
+ .new-card1:hover{
+  margin-top: 5px;
+  transition: 1s;
+   }
  .new-card2{
   width: 288px;
   height: 284px;
   flex-shrink: 0;
   border-radius: 15px;
 border: 2px solid rgba(40, 48, 54, 0.60);
-margin-top: 15px;
+margin-top: 30px;
 margin-left: 24px;
 border:5px solid blue;
  }
+ .new-card2:hover{
+  margin-top: 5px;
+  transition: 1s;
+   }
  .cards2{
 display: flex;
 margin-left: 850px  ;
@@ -233,6 +278,10 @@ background: #1E252B;
 border:5px solid blue;
 margin-top: 50px;
  }
+ .new-card3:hover{
+  margin-top: 15px;
+  transition: 1s;
+   }
  .new-card4{
   width: 288px;
   height: 284px;
@@ -243,6 +292,10 @@ border:5px solid blue;
 margin-left: 24px;
 margin-top: 50px;
  }
+ .new-card4:hover{
+  margin-top: 15px;
+  transition: 1s;
+   }
 .plate{
   width: 265px;
   height: 91px;
