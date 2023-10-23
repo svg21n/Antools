@@ -1,17 +1,13 @@
 *{
   background: #1E252B; ;
-
 }
-
 .header-div{
   margin: auto;
   width: 100%;
 height: 700px;
 flex-shrink: 0;
 }
-
 .searchbar{
-  
   border-radius: 15px;
   border: 1.5px solid rgba(255, 255, 255, 0.10);
   background: #283036;
@@ -23,7 +19,6 @@ flex-shrink: 0;
   
   border: none;
  }
-
  .menu-center{
   color: rgba(255, 255, 255, 0.55);
 font-family: Poppins;
@@ -67,7 +62,6 @@ margin-left: 111px;
 
 right: 589px;
 }
-
 .background img {
   position: absolute;
   top: 10px;
@@ -75,7 +69,6 @@ right: 589px;
   right: 0;
   bottom: 0;
   margin: auto;
- 
 }
  .header-text{
   margin-top: 111px;
@@ -86,13 +79,11 @@ right: 589px;
   margin-left: 123px;
   margin-top: 122px;
  }
- 
  .container  {
  margin: auto;
  width: 80%;
  height: 1109px;
  flex-shrink: 0;
- 
   text-decoration: none;
  }
 .link{
@@ -112,7 +103,6 @@ right: 589px;
   width: 392px;
   height: 294px;
   flex-shrink: 0;
-
   border-radius: 15px;
 background: #1E252B;
  }
@@ -120,7 +110,6 @@ background: #1E252B;
   margin-top: 80px;
   transition: 1s;
   background-image: url(src/Images/Rectangle.webp);
-  
    }
    .tool-card1:not(:hover) {
     margin-top: 110px;
@@ -132,41 +121,44 @@ background: #1E252B;
 height: 294px;
 flex-shrink: 0;
 border-radius: 15px;
-
+background-image: url(src/Images/Rectangle.webp);
  }
  .tool-card2:hover{
 margin-top: 80px;
 transition: 1s;
-
+background-image: url(src/Images/Rectangle.webp);
  }
-
-
+ .tool-card2:not(:hover) {
+  margin-top: 110px;
+  transition: 1s;
+}
 a.img{
   background: url(src/Images/heart-grey.webp); 
   display: block;
   width: 28px;
   height: 28px;
   flex-shrink: 0;
-  
  }
  a.img:hover {
   background: url(src/Images/heart-red.webp);
-
 }
-  
  .tool-card3{
   margin-top: 110px;
   width: 392px;
 height: 294px;
 flex-shrink: 0;
- 
   border-radius: 15px;
   background: #1E252B;
  }
  .tool-card3:hover{
   margin-top: 80px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle.webp);
    }
+   .tool-card3:not(:hover) {
+    margin-top: 110px;
+    transition: 1s;
+  }
  .tools2{
   display: flex;
   justify-content: center;
@@ -179,13 +171,16 @@ flex-shrink: 0;
   flex-shrink: 0;
   border-radius: 15px;
 background: #1E252B;
-
  }
  .tool-card4:hover{
   margin-top: 80px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle.webp);
    }
-  
+   .tool-card4:not(:hover) {
+    margin-top: 110px;
+    transition: 1s;
+  }
  .tool-card5{
   margin-top: 100px;
   width: 392px;
@@ -193,12 +188,16 @@ height: 294px;
 flex-shrink: 0;
 border-radius: 15px;
 background: #1E252B;
-
  }
  .tool-card5:hover{
   margin-top: 80px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle.webp);
    }
+   .tool-card6:not(:hover) {
+    margin-top: 110px;
+    transition: 1s;
+  }
  .tool-card6{
   margin-top: 100px;
   width: 392px;
@@ -206,24 +205,22 @@ height: 294px;
 flex-shrink: 0;
 border-radius: 15px;
 background: #1E252B;
-
  }
  .tool-card6:hover{
   margin-top: 80px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle.webp);
    }
  .brand{
  margin-top: 217px;
   width: 75%;
   height: 253px;
   flex-shrink: 0;
-
 margin: auto;
 margin-bottom: 200px;
  }
- 
  .brand-tools{
-  
+  background-image: url(src/Images/Rectangle-trusted.webp);
 margin-top: 55px;
 display: flex;
 justify-content: space-around;
@@ -234,11 +231,9 @@ width: 1224px;
 height: 253px;
 flex-shrink: 0;
  }
-
  .new-tools{
   width: 78%;
   height: 658px;
-
   margin: auto;
  }
  .newcomer{
@@ -246,7 +241,6 @@ flex-shrink: 0;
 height: 300px;
 flex-shrink: 0;
 position: absolute;
-
  }
  .cards1{
   display: flex;
@@ -259,26 +253,33 @@ position: absolute;
 background: #1E252B;
 margin-left: 850px;
 margin-top: 30px;
-
  }
  .new-card1:hover{
   margin-top: 5px;
   transition: 1s;
-   }
+  background-image: url(src/Images/Rectangle-2.webp);
+ }
+   .new-card1:not(:hover) {
+    margin-top: 60px;
+    transition: 1s;
+  }
  .new-card2{
   width: 288px;
   height: 284px;
   flex-shrink: 0;
   border-radius: 15px;
-border: 2px solid rgba(40, 48, 54, 0.60);
 margin-top: 30px;
 margin-left: 24px;
-
  }
  .new-card2:hover{
   margin-top: 5px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle-2.webp);
    }
+   .new-card2:not(:hover) {
+    margin-top: 60px;
+    transition: 1s;
+  }
  .cards2{
 display: flex;
 margin-left: 850px;
@@ -292,9 +293,14 @@ background: #1E252B;
 margin-top: 50px;
  }
  .new-card3:hover{
-  margin-top: 15px;
+  margin-top: 40px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle-2.webp);
    }
+   .new-card3:not(:hover) {
+    margin-top: 60px;
+    transition: 1s;
+  }
  .new-card4{
   width: 288px;
   height: 284px;
@@ -307,7 +313,12 @@ margin-top: 50px;
  .new-card4:hover{
   margin-top: 15px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle-2.webp);
    }
+   .new-card4:not(:hover) {
+    margin-top: 60px;
+    transition: 1s;
+  }
 .plate{
   width: 265px;
   height: 91px;
@@ -315,20 +326,17 @@ margin-top: 50px;
   line-height:8px;
   border-radius: 4px;
 border: 1px solid rgba(255, 255, 255, 0.10);
-
 }
 .ls{
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -ms-user-select: none;
 }
-
 .guy{
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -ms-user-select: none;
 }
-
 .main-footer p{
   margin: auto;
   justify-content: center;
@@ -358,38 +366,34 @@ flex-shrink: 0;
 border-radius: 15px;
 border: 1.5px solid rgba(255, 255, 255, 0.10);
 background: #283036;
-
+}
+.main-footer-inp{
+  padding-left: 25px;
 }
 .main-input{
   margin-top: 100px;
   margin-left: 446px;
 }
-
-
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-
 .main-input  form {
   position: relative;
   width: 538px;
 }
-
 .main-input input[type='text'] {
   position: relative;
   width: 100%;
   padding-right: 70px;
 }
-
 .main-input input[type='submit'] {
   position: absolute;
   right: 0;
   top: 8px;
   width: 70px;
 }
-
 .container-button form {
   position: relative;
   width: 538px;
@@ -413,7 +417,6 @@ flex-shrink: 0;
 border: 1.5px solid rgba(0,0,0,0.0);
 margin-top: 300px;
 }
-
 footer{
   display: flex;
 }
@@ -421,37 +424,27 @@ footer{
   width: 260px;
 height: 183px;
 flex-shrink: 0;
-  margin-top: 70px;
-   margin-left: 108px;
-   margin-bottom: 98px;
+
 }
 .card2{
   width: 197px;
 height: 142px;
 flex-shrink: 0;
-  margin-top: 70px;
-  margin-left: 276px;
-  margin-bottom: 139px;
+ 
 }
 .card3{
   width: 112px;
 height: 108px;
 flex-shrink: 0;
-margin-top: 70px;
-margin-left: 200px;
-margin-bottom: 173px;
+
 }
 .card4{
-  
   width: 149px;
 height: 142px;
 flex-shrink: 0;
-margin-top: 70px;
-margin-left: 115px;
-margin-bottom: 139px;
- 
+
+
 }
 footer a{
   text-decoration: none;
-
 }
