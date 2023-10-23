@@ -52,7 +52,9 @@ text-decoration: none;
 gap: 41px;
 margin-right: 133px ;
  }
-
+.header-input{
+padding-left: 40px;
+}
  .header-main{
   width: 600px;
 height: 354px;
@@ -117,7 +119,13 @@ background: #1E252B;
  .tool-card1:hover{
   margin-top: 80px;
   transition: 1s;
+  background-image: url(src/Images/Rectangle.webp);
+  
    }
+   .tool-card1:not(:hover) {
+    margin-top: 110px;
+    transition: 1s;
+  }
  .tool-card2{
   margin-top: 110px;
   width: 392px;
@@ -129,6 +137,7 @@ border-radius: 15px;
  .tool-card2:hover{
 margin-top: 80px;
 transition: 1s;
+
  }
 
 
