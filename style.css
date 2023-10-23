@@ -121,7 +121,6 @@ background: #1E252B;
 height: 294px;
 flex-shrink: 0;
 border-radius: 15px;
-background-image: url(src/Images/Rectangle.webp);
  }
  .tool-card2:hover{
 margin-top: 80px;
