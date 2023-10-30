@@ -208,7 +208,7 @@ background: #1E252B;
  .tool-card6:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src\Images\rectangle.webp);
+  background-image: url(src\Images\Rectangle.webp);
    }
  .brand{
  margin-top: 217px;
@@ -219,7 +219,7 @@ margin: auto;
 margin-bottom: 200px;
  }
  .brand-tools{
-  background-image: url(src/Images/rectangle-trusted.webp);
+  background-image: url(src\Images\rectangle-trusted.webp);
 margin-top: 55px;
 display: flex;
 justify-content: space-around;
