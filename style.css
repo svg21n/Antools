@@ -176,7 +176,7 @@ background: #1E252B;
   transition: 1s;
   background-image: url(src\Images\rectangle.webp);
    }
-   .tool-card4:not(:hover) {
+   .tool-card4:not(:hover){ 
     margin-top: 110px;
     transition: 1s;
   }
