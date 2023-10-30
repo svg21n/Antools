@@ -109,7 +109,7 @@ background: #1E252B;
  .tool-card1:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src\Images\rectangle.webp);
    }
    .tool-card1:not(:hover) {
     margin-top: 110px;
@@ -125,21 +125,21 @@ border-radius: 15px;
  .tool-card2:hover{
 margin-top: 80px;
 transition: 1s;
-background-image: url(src/Images/rectangle.webp);
+background-image: url(src\Images\rectangle.webp);
  }
  .tool-card2:not(:hover) {
   margin-top: 110px;
   transition: 1s;
 }
 a.img{
-  background: url(src/Images/heart-grey.webp); 
+  background: url(src\Images\rectangle.webp); 
   display: block;
   width: 28px;
   height: 28px;
   flex-shrink: 0;
  }
  a.img:hover {
-  background: url(src/Images/heart-red.webp);
+  background: url(src\Images\rectangle.webp);
 }
  .tool-card3{
   margin-top: 110px;
@@ -152,7 +152,7 @@ flex-shrink: 0;
  .tool-card3:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src\Images\rectangle.webp);
    }
    .tool-card3:not(:hover) {
     margin-top: 110px;
@@ -174,7 +174,7 @@ background: #1E252B;
  .tool-card4:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src\Images\rectangle.webp);
    }
    .tool-card4:not(:hover) {
     margin-top: 110px;
@@ -191,7 +191,7 @@ background: #1E252B;
  .tool-card5:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src\Images\rectangle.webp);
    }
    .tool-card6:not(:hover) {
     margin-top: 110px;
@@ -208,7 +208,7 @@ background: #1E252B;
  .tool-card6:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src\Images\rectangle.webp);
    }
  .brand{
  margin-top: 217px;
