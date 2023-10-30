@@ -109,15 +109,7 @@ background: #1E252B;
  .tool-card1:hover{
   margin-top: 80px;
   transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
   background-image: url(src\Images\rectangle.webp);
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
    }
    .tool-card1:not(:hover) {
     margin-top: 110px;
@@ -133,15 +125,7 @@ border-radius: 15px;
  .tool-card2:hover{
 margin-top: 80px;
 transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
 background-image: url(src\Images\rectangle.webp);
-=======
-background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
  }
  .tool-card2:not(:hover) {
   margin-top: 110px;
@@ -168,15 +152,7 @@ flex-shrink: 0;
  .tool-card3:hover{
   margin-top: 80px;
   transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
   background-image: url(src\Images\rectangle.webp);
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
    }
    .tool-card3:not(:hover) {
     margin-top: 110px;
@@ -198,15 +174,7 @@ background: #1E252B;
  .tool-card4:hover{
   margin-top: 80px;
   transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
   background-image: url(src\Images\rectangle.webp);
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
    }
    .tool-card4:not(:hover) {
     margin-top: 110px;
@@ -223,15 +191,7 @@ background: #1E252B;
  .tool-card5:hover{
   margin-top: 80px;
   transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
   background-image: url(src\Images\rectangle.webp);
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
    }
    .tool-card6:not(:hover) {
     margin-top: 110px;
@@ -248,23 +208,7 @@ background: #1E252B;
  .tool-card6:hover{
   margin-top: 80px;
   transition: 1s;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  background-image: url(src\Images\Rectangle.webp);
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
   background-image: url(src\Images\rectangle.webp);
->>>>>>> parent of 111e190 (aa)
-=======
-  background-image: url(src\Images\rectangle.webp);
->>>>>>> parent of 111e190 (aa)
    }
  .brand{
  margin-top: 217px;
@@ -275,23 +219,7 @@ margin: auto;
 margin-bottom: 200px;
  }
  .brand-tools{
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   background-image: url(src\Images\rectangle-trusted.webp);
-=======
-  background-image: url(src/Images/Rectangle-trusted.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/Rectangle-trusted.webp);
->>>>>>> parent of 3d437f4 (gg)
-=======
-  background-image: url(src/Images/rectangle-trusted.webp);
->>>>>>> parent of 111e190 (aa)
-=======
-  background-image: url(src/Images/rectangle-trusted.webp);
->>>>>>> parent of 111e190 (aa)
 margin-top: 55px;
 display: flex;
 justify-content: space-around;
