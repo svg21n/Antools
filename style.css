@@ -109,7 +109,7 @@ background: #1E252B;
  .tool-card1:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src/Images/Rectangle.webp);
    }
    .tool-card1:not(:hover) {
     margin-top: 110px;
@@ -126,7 +126,7 @@ border-radius: 15px;
  .tool-card2:hover{
 margin-top: 80px;
 transition: 1s;
-background-image: url(src/Images/rectangle.webp);
+background-image: url(src/Images/Rectangle.webp);
  }
  .tool-card2:not(:hover) {
   margin-top: 110px;
@@ -157,7 +157,7 @@ flex-shrink: 0;
  .tool-card3:hover{
   margin-top: 80px;
   transition: 1s;
-  background-image: url(src/Images/rectangle.webp);
+  background-image: url(src/Images/Rectangle.webp);
    }
    .tool-card3:not(:hover) {
     margin-top: 110px;
