@@ -198,7 +198,7 @@ background: #1E252B;
   transition: 1s;
   background-image: url(src/Images/rectangle.webp);
    }
-   .tool-card6:not(:hover) {
+   .tool-card5:not(:hover) {
     margin-top: 110px;
     transition: 1s;
   }
@@ -214,7 +214,11 @@ background: #1E252B;
   margin-top: 80px;
   transition: 1s;
   background-image: url(src/Images/rectangle.webp);
-   }
+   } 
+     .tool-card6:not(:hover) {
+    margin-top: 110px;
+    transition: 1s;
+  }
  .brand{
  margin-top: 217px;
   width: 75%;
