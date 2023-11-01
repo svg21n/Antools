@@ -431,9 +431,7 @@ flex-shrink: 0;
 border: 1.5px solid rgba(0,0,0,0.0);
 margin-top: 300px;
 }
-hr{
-  color: 3f3f3f;
-}
+
 footer{
   display: flex;
 }
