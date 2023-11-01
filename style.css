@@ -219,6 +219,11 @@ background: #1E252B;
     margin-top: 110px;
     transition: 1s;
   }
+  .button{
+    margin: auto auto;
+    display: flex;
+    text-decoration: none;
+  }
  .brand{
  margin-top: 217px;
   width: 75%;
